@@ -64,4 +64,5 @@ while inputting:
     else:
         inputting = False
         print("OK. Now printing the database table.\n")
-        GradingSystem_Imperial.PrintDatabase(GradingSystem_Imperial, students)
+
+GradingSystem_Imperial.PrintDatabase(GradingSystem_Imperial, students)
