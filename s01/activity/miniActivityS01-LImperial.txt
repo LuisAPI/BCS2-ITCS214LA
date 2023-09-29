@@ -1,0 +1,18 @@
+Introducing Self
+
+- Name
+-- Luis Anton P. Imperial
+- nickName
+-- Luis
+- qualities
+-- studious
+-- kind
+-- skilled
+-- excellent
+-- hardworking
+- hobbies
+-- playing games
+-- chatting online
+-- browsing forums
+-- scrolling through social media
+-- watching TV
