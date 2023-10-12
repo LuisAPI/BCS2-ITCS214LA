@@ -1,8 +1,10 @@
 # BCS2 ITCS214LA
 
+
+
 The works of Luis Anton P. Imperial, 2nd-year student in Computer Science at De La Salle University–Dasmariñas, for the class Data Structures and Algorithms (class code: ITCS214).
 
-This repository features scripts in Python as well as screenshots of outputs as requested by our professor, Ms. Flordeliza “Thonie” Fernandez.
+This repository features scripts in Python as well as screenshots of outputs as requested by our professor, Ms. Flordeliza “Thonie” Fernandez (on GitHub as [shewhocode8](https://github.com/shewhocode8)).
 
 ## Skeletal structure
 
