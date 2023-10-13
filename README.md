@@ -28,6 +28,8 @@ This repository features scripts in Python as well as screenshots of outputs as 
 > - activity
 >> - **GradingSystem_Imperial [version].py** (Tue, Sep 26)
 - s05
+> - discussion
+>> - **linklist.py** (Fri, Sep 29)
 > - activity
 >> - **LinkedList.py** (Fri, Sep 29)
 - s06
