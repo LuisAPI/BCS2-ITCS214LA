@@ -26,7 +26,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 >> - **Imperial-elevator.py** (Tue, Sep 19) — Using arrays, we created a script for an elevator in some type of 15-storey building.
 - s04
 > - activity
->> - **GradingSystem_Imperial [version].py** (Tue, Sep 26)
+>> - **GradingSystem_Imperial [version].py** (Tue, Sep 26) — We created a script to represent our final grades for the semester based on input values, alongside percentages and formulas provided by our instructor.
 - s05
 > - discussion
 >> - **linklist.py** (Fri, Sep 29)
