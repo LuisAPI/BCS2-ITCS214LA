@@ -29,7 +29,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 >> - **GradingSystem_Imperial [version].py** (Tue, Sep 26) — We created a script to represent our final grades for the semester based on input values, alongside percentages and formulas provided by our instructor.
 - s05
 > - discussion
->> - **linklist.py** (Fri, Sep 29)
+>> - **linklist.py** (Fri, Sep 29) — Discussion on LinkedLists, which includes creative ways to recreate diagrams Ma'am Thonie made on the whiteboard.
 > - activity
 >> - **LinkedList.py** (Fri, Sep 29)
 - s06
