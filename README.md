@@ -31,7 +31,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 > - discussion
 >> - **linklist.py** (Fri, Sep 29) — Discussion on LinkedLists, which includes creative ways to recreate diagrams Ma'am Thonie made on the whiteboard.
 > - activity
->> - **LinkedList.py** (Fri, Sep 29)
+>> - **LinkedList.py** (Fri, Sep 29) — We were asked to rearrange a short linked list consisting of five values, from [6, 3, 4, 2, 1] to [6, 4, 3, 2, 1].
 - s06
 > - activity
 >> - **MidtermExam_[version].py** (Tue, Oct 3) — Our exams for our midterm period were a mix of fill-in-the-blank code and debugging.
