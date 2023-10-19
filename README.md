@@ -38,6 +38,12 @@ This repository features scripts in Python as well as screenshots of outputs as 
 - images
 > - **[some activity]\_Imperial\_[screenshot filename].[ext]** — These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
 
+## Table of files
+
+Session | Type | File | Description
+----|----|----|----
+s01 | discussion | discussionM01.txt | This touches on data in the computing space and tools used to manipulate it.
+
 ## Discrepancies
 
 Some of my classmates did not create a folder for the introduction session, instead placing the navigation script as `s01` and the salary script as `s02`. This archive syncs up with theirs starting at the elevator script done September 19, around our forth(-ish?) week of classes.
