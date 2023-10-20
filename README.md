@@ -10,9 +10,9 @@ This repository features scripts in Python as well as screenshots of outputs as 
 
 - s01
 > - discussion
->> - **discussionM01.txt** — This touches on data in the computing space and tools used to manipulate it.
+>> - **discussionM01.txt**
 > - activity
->> - **miniActivityS01-LImperial.txt** — We were asked to write our name, as well as five of our self-described qualities and hobbies, on a plain text file and push it to a GitHub repository (which is this one).
+>> - **miniActivityS01-LImperial.txt**
 - s02
 > - discussion
 >> - **mapSchool.py** (Tue, Aug 29) — We were introduced to the concept of the Dijkstra algorithm, and, more broadly, programming a search for the fastest route for navigation purposes.
@@ -43,6 +43,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 Session | Type | File | Description
 ----|----|----|----
 s01 | discussion | discussionM01.txt | This touches on data in the computing space and tools used to manipulate it.
+s02 | activity | miniActivityS01-LImperial.txt | We were asked to write our name, as well as five of our self-described qualities and hobbies, on a plain text file and push it to a GitHub repository (which is this one).
 
 ## Discrepancies
 
