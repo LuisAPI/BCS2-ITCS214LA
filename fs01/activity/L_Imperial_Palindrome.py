@@ -54,12 +54,18 @@ class PalindromeChecker:
     def __init__(self, stack_object_input):
         self.stack_object_used = stack_object_input.lower()
 
+    def customization_options(self):
+        characters_allowed = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+        return characters_allowed
+
     def isPalindrome(self):
         sentence = []
         reversed_sentence = []
+        characters_to_check_for = self.customization_options()
 
         for character in self.stack_object_used:
-            if character.isalpha() is True:
+            if character in characters_to_check_for:
                 sentence.append(character)
                 stack_object.push(character)
 
@@ -70,7 +76,7 @@ class PalindromeChecker:
         stack_object.display()
 
         for character in self.stack_object_used:
-            if character.isalpha() is True:
+            if character in characters_to_check_for:
                 popped_element = stack_object.pop()
                 reversed_sentence.append(popped_element)
 
