@@ -35,6 +35,12 @@ This repository features scripts in Python as well as screenshots of outputs as 
 - s06
 > - activity
 >> - **MidtermExam_[version].py** (Tue, Oct 3) — Our exams for our midterm period were a mix of fill-in-the-blank code and debugging.
+- s06b
+> - activity
+>> - **bcs22-stack-activity-limperial.py**
+>> - **push.py**
+> - discussion
+>> - **push.py**
 - images
 > - **[some activity]\_Imperial\_[screenshot filename].[ext]** — These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
 
