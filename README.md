@@ -41,6 +41,11 @@ This repository features scripts in Python as well as screenshots of outputs as 
 >> - **push.py**
 > - discussion
 >> - **push.py**
+- fs01
+> - activity
+>> - **L_Imperial_Palindrome.py**
+> - discussion
+>> - **stackLink.py**
 - images
 > - **[some activity]\_Imperial\_[screenshot filename].[ext]** — These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
 
