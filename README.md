@@ -17,7 +17,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 > - discussion
 >> - **mapSchool.py**
 > - activity
->> - **mapSchoolAct_V5.py** — A list of journeys was given wherein we must find the fastest route for all of them. The final version.
+>> - **mapSchoolAct_V5.py**
 - s03
 > - discussion
 >> - **discussionArray.txt** — Our third session was all about arrays and lists.
@@ -56,6 +56,7 @@ Session | Type | File | Description
 s01 | discussion | discussionM01.txt | This touches on data in the computing space and tools used to manipulate it.
 s01 | activity | miniActivityS01-LImperial.txt | We were asked to write our name, as well as five of our self-described qualities and hobbies, on a plain text file and push it to a GitHub repository (which is this one).
 s02 | discussion | mapSchool.py | (Tue, Aug 29) We were introduced to the concept of the Dijkstra algorithm, and, more broadly, programming a search for the fastest route for navigation purposes.
+s02 | activity | mapSchoolAct_V5.py | A list of journeys was given wherein we must find the fastest route for all of them. The final version.
 
 ## Discrepancies
 
