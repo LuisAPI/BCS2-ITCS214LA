@@ -22,7 +22,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 > - discussion
 >> - **discussionArray.txt**
 > - activity
->> - **MLabAct4_Imperial.py** (Tue, Sep 12) — We created a function to define the bonus of salaried employees at a fictional company, using percentage values and ranges given by the professor.
+>> - **MLabAct4_Imperial.py**
 >> - **Imperial-elevator.py** (Tue, Sep 19) — Using arrays, we created a script for an elevator in some type of 15-storey building.
 - s04
 > - activity
@@ -58,6 +58,7 @@ s01 | activity | miniActivityS01-LImperial.txt | We were asked to write our name
 s02 | discussion | mapSchool.py | (Tue, Aug 29) We were introduced to the concept of the Dijkstra algorithm, and, more broadly, programming a search for the fastest route for navigation purposes.
 s02 | activity | mapSchoolAct_V5.py | A list of journeys was given wherein we must find the fastest route for all of them. The final version.
 s03 | discussion | discussionArray.txt | Our third session was all about arrays and lists.
+s03 | activity | MLabAct4_Imperial.py | (Tue, Sep 12) We created a function to define the bonus of salaried employees at a fictional company, using percentage values and ranges given by the professor.
 
 ## Discrepancies
 
