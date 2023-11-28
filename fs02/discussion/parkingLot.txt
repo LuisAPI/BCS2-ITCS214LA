@@ -1,0 +1,6 @@
+Using the stack or queue, create a parking system using the principle of stack or queue (LIFO or FIFO). The parking lot has a maximum capacity and the cars added to the stack/list when parked. When a car leaves, it is remove from the stack/list
+
+Create your own method and avoid using python library or method
+
+Ex
+    In this simulation, cars will enter the parking lot and leae in a last-in-first-out order (stack)
