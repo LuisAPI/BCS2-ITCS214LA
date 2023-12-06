@@ -1,0 +1,206 @@
+tree
+    - a non-linear structure which organizwa data in hierarchical structure and this is recursive
+
+Tree Representation
+    - list representation
+        -- use two nodes
+            - data node (data)
+            - reference node (reference)
+        -- left child - right sibling representation
+            -- a node with three fields
+                - data node
+                - left child (reference)
+                - right sibling (address)
+
+Binary Tree
+    - a Tree in which every node have a maximum two binary
+    --- strictly binary tree
+        - binary tree in which every node has either two or zerp number of children
+        - full binary tree or proper binary tree or 2-tree
+
+    --- complete binary tree
+        - binary tree in which every internal node has exactly two children and all of same level
+            2^n = 2^2 = 4
+                = 2^3 = 8
+        - perfect binary tree
+
+    --- extended binary tree
+        - binary tree in which adding dummy nodes to existing nodes wherever require to make it full binary tree
+
+Binary Representation
+    - array representation
+        - use the one-dimensional array to represent binary tree
+            -- max size = 2n + 1
+                - n depth of the tree
+    - linked list representation
+        - used double linked list to represent a binary tree
+            -- left child address
+            -- data
+            -- right child address
+
+Binary Tree Traversals
+    - displaying or visiting order of nodes in a binary tree
+
+        -- In-order Traversal (infix notation)
+        -- Pre-order Traversal
+        -- Post-order Traversal
+
+### Whiteboard 1
+##                                    ➡️[G ][ ]➡️[K][0]
+##    R                               ⬆️
+##  [ A][  ]➡️ [  ][  ]➡️ ➡️[C][ ]➡️[ ][ ]
+##              ⬇️                       ⬇️
+##              ⬇️                       [H][0]
+##              ⬇️
+##              [ B][  ]➡️[D][ ]➡️[ ][ ]➡️[F][0]
+##                               ⬇️
+##                          ↙️⬅️↙️
+##                          ⬇️
+##                          [E][ ]➡️[I][ ]➡️[J][0]
+
+
+### Whiteboard 2
+##  
+##  
+##  
+##                          [     A     ]
+##                          [-----------]
+##                          [ 🎯  | null]
+##                            ⬇️
+##                    ↙️⬅️⬅️↙️
+##                    ⬇️
+##              [     B     ]
+##              [-----------]                  [     C     ]
+##              [ 🎯  | 🎯 ]➡️➡️➡️➡️➡️➡️➡️[-----------]
+##                ⬇️                          [  🎯  | null]
+##        ↙️⬅️⬅️↙️                              ⬇️
+##        ⬇️                                 ↙️⬅️↙️
+##  [     D     ]                            ⬇️
+##  [-----------]                       [     G     ]
+##  [null |  🎯 ]                       [-----------]
+##           ⬇️                        [      |     ]
+##      [     E     ]       [     F     ]
+##      [-----------]       [-----------]
+##      [     | 🎯 ]➡️➡️➡️[null | null]
+
+#### Whiteboard 3
+### [typical tree of nodes in red circles]
+
+#### Whiteboard 4 (complete binary tree)
+## 
+##  A + B * C
+## 
+##
+##              + 
+##              ⬇️
+##      ↙️⬅️⬅️⬅️➡️➡️➡️➡️↘️
+##      ⬇️                 ⬇️
+##       A                  *
+##                         ⬇️
+##                  ↙️⬅️⬅️➡️➡️↘️
+##                  B            C
+
+### Whiteboard 5
+##  
+##  
+##               (A)
+##              ↙️↘️
+##      ⬇️⬅️⬅️⬇️  ⬇️➡️➡️⬇️
+##      ↙️                 ↘️  
+##      B                   C            -|
+##   ↙️↘️                ↙️↘️           |
+##  ⬇️⬅️⬅️⬇️          ⬇️➡️➡️⬇️        |   2
+##  ⬇️     ⬇️          ⬇️     ⬇️        |
+##  D       E           F       G        -|
+##  
+##  2^n = 2^2 = 4
+##  
+##  n = "level"
+
+#### Whiteboard 6 (extended binary tree)
+##  
+##  
+##                               (A)
+##                            ↙️↘️
+##                  ⬇️⬅️⬅️⬅️⬅️⬇️  ⬇️➡️➡️➡️➡️⬇️
+##                  ↙️                            ↘️  
+##                   B                             C            
+##        ↙️                ↘️                  ↙️ ↘️           
+##      ⬇️⬅️⬅️⬅️⬅️ ➡️➡️➡️⬇️               ⬇️⬅️ ➡️➡️⬇️      
+##      ⬇️                   ⬇️               ⬇️        ⬇️        
+##      D                    [  ]               F          G        
+##     ↙️↘️                ↙️↘️              ↙️           ↘️
+##   ⬇️⬅️⬅️⬇️          ⬇️➡️➡️⬇️       ⬇️⬅️➡️⬇️     ⬇️⬅️➡️⬇️
+##   ⬇️     ⬇️          ⬇️     ⬇️       ⬇️     ⬇️      ⬇️     ⬇️ 
+##  [  ]    [  ]         [  ]    [  ]    [  ]    [  ]    [  ]    [  ]
+
+#### Whiteboard 7 (LinkedList: In-order traversal)
+##
+##              ;----------------------------------;
+##             /                A                   \
+##            /             /           \            \
+##           /        /                     \         \
+##          /     /                            \       \
+##         ;-------------;                      \       \
+##        /       B      \                      C        \
+##       /    /<--|-->\  \                    /   \       \
+##      /    / \       \  \                 /       \      \
+##     /;-------;       \  \               /         \      \
+##    //    D    \       F  \             G           H      \
+##   //   /   \   \          \             \                  \
+##  //  I        J \          \             K                  \
+## //--------------\-----------\--------------------------------\
+## 
+## [IDJ]BFA[GK]CH
+
+#### Whiteboard 8 (LinkedList: Pre-order traversal)
+##
+##              ;----------------------------------;
+##             /                A                   \
+##            /             /           \            \
+##           /        /                     \         \
+##          /     /                            \       \
+##         ;-------------;                      \       \
+##        /       B      \                      C        \
+##       /    /<--|-->\  \                    /   \       \
+##      /    / \       \  \                 /       \      \
+##     /;-------;       \  \               /         \      \
+##    //    D    \       F  \             G           H      \
+##   //   /   \   \          \             \                  \
+##  //  I        J \          \             K                  \
+## //--------------\-----------\--------------------------------\
+## 
+## ABDIJFCGKH
+
+#### Whiteboard 9 (LinkedList: Post-order traversal)
+##
+##              ;----------------------------------;
+##             /                A                   \
+##            /             /           \            \
+##           /        /                     \         \
+##          /     /                            \       \
+##         ;-------------;                      \       \
+##        /       B      \                      C        \
+##       /    /<--|-->\  \                    /   \       \
+##      /    / \       \  \                 /       \      \
+##     /;-------;       \  \               /         \      \
+##    //    D    \       F  \             G           H      \
+##   //   /   \   \          \             \                  \
+##  //  I        J \          \             K                  \
+## //--------------\-----------\--------------------------------\
+## 
+## IJD FB KG HC A
+
+####    Mini Activity
+##  - Using this figure do the following:
+##   - Reconstruct the tree by
+##    - Complete Tree
+##    - Extended
+##   - Construct the Tree Representation
+##    - Array Representation
+##    - Linked list Representation
+##   - Write the:
+##    - Pre-order
+##    - In-order
+##    - Post-order
+##  - Show your solution and screenshot your answer and paste it in our SB Lec Account
