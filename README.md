@@ -29,7 +29,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 >> - **GradingSystem_Imperial [version].py**
 - s05
 > - discussion
->> - **linklist.py** (Fri, Sep 29) — Discussion on LinkedLists, which includes creative ways to recreate diagrams Ma'am Thonie made on the whiteboard.
+>> - **linklist.py**
 > - activity
 >> - **LinkedList.py** (Fri, Sep 29) — We were asked to rearrange a short linked list consisting of five values, from [6, 3, 4, 2, 1] to [6, 4, 3, 2, 1].
 - s06
@@ -61,6 +61,7 @@ s03 | discussion | discussionArray.txt | Our third session was all about arrays 
 s03 | activity | MLabAct4_Imperial.py | (Tue, Sep 12) We created a function to define the bonus of salaried employees at a fictional company, using percentage values and ranges given by the professor.
 s03 | activity | Imperial-elevator.py | (Tue, Sep 19) Using arrays, we created a script for an elevator in some type of 15-storey building.
 s04 | activity | GradingSystem_Imperial [version].py | (Tue, Sep 26) We created a script to represent our final grades for the semester based on input values, alongside percentages and formulas provided by our instructor.
+s05 | discussion | linklist.py | (Fri, Sep 29) Discussion on LinkedLists, which includes creative ways to recreate diagrams Ma'am Thonie made on the whiteboard.
 
 ## Discrepancies
 
