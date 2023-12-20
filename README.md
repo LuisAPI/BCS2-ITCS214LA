@@ -65,6 +65,7 @@ s05 | discussion | linklist.py | (Fri, Sep 29) Discussion on LinkedLists, which 
 s05 | activity | LinkedList.py | (Fri, Sep 29) We were asked to rearrange a short linked list consisting of five values, from [6, 3, 4, 2, 1] to [6, 4, 3, 2, 1].
 s06 | activity | MidtermExam_[version].py | (Tue, Oct 3) Our exams for our midterm period were a mix of fill-in-the-blank code and debugging.
 s06b | discussion | push.py | (Tue, Nov 7) In our first session for the Final Period, we discussed stacks as a data structure and how to “push” and “pop” elements into them.
+s06b | activity | push.py | (Tue, Nov 7) The mini-activity made us add error messages to be sent to the terminal for stack overflow and underflow, as well as for duplicate inputs.
 
 ## Discrepancies
 
