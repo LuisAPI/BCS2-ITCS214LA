@@ -47,7 +47,7 @@ This repository features scripts in Python as well as screenshots of outputs as 
 > - discussion
 >> - **stackLink.py**
 - images
-> - **[some activity]\_Imperial\_[screenshot filename].[ext]** — These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
+> - **[some activity]\_Imperial\_[screenshot filename].[ext]**
 
 ## Table of files
 
@@ -66,6 +66,7 @@ s05 | activity | LinkedList.py | (Fri, Sep 29) We were asked to rearrange a shor
 s06 | activity | MidtermExam_[version].py | (Tue, Oct 3) Our exams for our midterm period were a mix of fill-in-the-blank code and debugging.
 s06b | discussion | push.py | (Tue, Nov 7) In our first session for the Final Period, we discussed stacks as a data structure and how to “push” and “pop” elements into them.
 s06b | activity | push.py | (Tue, Nov 7) The mini-activity made us add error messages to be sent to the terminal for stack overflow and underflow, as well as for duplicate inputs.
+images | [some activity]\_Imperial\_[screenshot filename].[ext] | These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
 
 ## Discrepancies
 
