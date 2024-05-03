@@ -66,11 +66,15 @@ s05 | activity | LinkedList.py | (Fri, Sep 29) We were asked to rearrange a shor
 s06 | activity | MidtermExam_[version].py | (Tue, Oct 3) Our exams for our midterm period were a mix of fill-in-the-blank code and debugging.
 s06b | discussion | push.py | (Tue, Nov 7) In our first session for the Final Period, we discussed stacks as a data structure and how to “push” and “pop” elements into them.
 s06b | activity | push.py | (Tue, Nov 7) The mini-activity made us add error messages to be sent to the terminal for stack overflow and underflow, as well as for duplicate inputs.
-images | [some activity]\_Imperial\_[screenshot filename].[ext] | These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
+../ | images | [some activity]\_Imperial\_[screenshot filename].[ext] | These are screenshots of output, sometimes kept for archival purposes. Oftentimes, the prof requests them alongside the script itself for crosschecking, whenever we submit our work to Cypher Learning's NEO Learning Management System service (branded by our uni as Schoolbook).
 
 ## Discrepancies
 
+### Session number discrepancy
 Some of my classmates did not create a folder for the introduction session, instead placing the navigation script as `s01` and the salary script as `s02`. This archive syncs up with theirs starting at the elevator script done September 19, around our forth(-ish?) week of classes.
+
+### Author credit discrepancy
+A mistake was made in uploading to this repository using a classroom desktop, which had another GitHub account — “@kuzuri28” — logged onto its Git backend software. Rest assured that all contents in this file were made solely by the owner of this repository.
 
 ## On socials
 
