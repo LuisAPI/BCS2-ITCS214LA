@@ -74,7 +74,7 @@ s06b | activity | push.py | (Tue, Nov 7) The mini-activity made us add error mes
 Some of my classmates did not create a folder for the introduction session, instead placing the navigation script as `s01` and the salary script as `s02`. This archive syncs up with theirs starting at the elevator script done September 19, around our forth(-ish?) week of classes.
 
 ### Author credit discrepancy
-A mistake was made in uploading to this repository using a classroom desktop, which had another GitHub account — “@kuzuri28” — logged onto its Git backend software. Rest assured that all contents in this file were made solely by the owner of this repository.
+A mistake was made in uploading to this repository using a classroom desktop, which had another GitHub account — “[kuzuri28](https://github.com/kuzuri28)” — logged onto its Git backend software. Rest assured that all contents in this file were made solely by the owner of this repository.
 
 ## On socials
 
