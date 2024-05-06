@@ -1,6 +1,6 @@
 # BCS2 ITCS214LA
 
-
+![Header Image for Repository](https://github.com/LuisAPI/BCS2-ITCS214LA/blob/main/HEADER.png?raw=true)
 
 The works of Luis Anton P. Imperial, 2nd-year student in Computer Science at De La Salle University–Dasmariñas, for the class Data Structures and Algorithms (class code: ITCS214).
 
